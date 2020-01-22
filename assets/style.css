@@ -7,8 +7,11 @@ body{
     background-size: cover;
 }
 .jumbotron{
-    margin-bottom: -2rem;
-    background-color: rgb(216, 158, 81);
+    color: white;
+    padding-top: -60px;
+    background-color: rgba(216, 157, 81, 0.721);
+    border-radius: 5px;
+    margin-top: -50px;
 }
 h1{
     font-family: 'Signika', sans-serif;
@@ -19,4 +22,8 @@ tr{
 }
 label{
     font-family: 'Signika', sans-serif;
+}
+.card-default {
+    color: white;
+    background-color: rgba(239, 255, 245, 0);
 }
